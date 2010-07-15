@@ -1,0 +1,14 @@
+=========================================
+Reference Guide for Django Model Options
+=========================================
+
+If you need to do any work involving Model introspection or overriding the
+default behaviors, you might have a hard time finding good documentation about
+the internals of Django models.
+
+
+The gen_doc_skel script in bin was used to generate the initial skeleton for
+this project.
+
+
+
