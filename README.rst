@@ -1,6 +1,6 @@
-=========================================
-Reference Guide for Django Model Options
-=========================================
+==========================================
+Reference Guide for Django Model Internals
+==========================================
 
 If you need to do any work involving Model introspection or overriding the
 default behaviors, you might have a hard time finding good documentation about
@@ -10,7 +10,7 @@ the internals of Django models.
 Overview
 ---------
 
-THe goal of this project is to collect a good set of reference information for
+The goal of this project is to create and collect a good set of reference information for
 the Django Model internals as of version 1.2.1. Rather than repeat information
 that the Django documentation already covers adequately, the permalink back to
 the Django docs will be favored.
