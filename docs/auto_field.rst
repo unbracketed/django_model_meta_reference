@@ -1,1 +1,6 @@
-TODO documentation and/or example code
+auto_field
+==========
+
+
+auto_field
+    TODO: need description

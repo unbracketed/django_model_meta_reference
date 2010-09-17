@@ -1,1 +1,6 @@
-TODO documentation and/or example code
+abstract_managers
+=================
+
+
+abstract_managers
+    TODO: need description

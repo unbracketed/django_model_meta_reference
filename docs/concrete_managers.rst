@@ -1,1 +1,6 @@
-TODO documentation and/or example code
+concrete_managers
+=================
+
+
+concrete_managers
+    TODO: need description

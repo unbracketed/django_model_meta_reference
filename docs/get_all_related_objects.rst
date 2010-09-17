@@ -1,1 +1,6 @@
-TODO documentation and/or example code
+get_all_related_objects
+=======================
+
+
+get_all_related_objects
+    TODO: need description

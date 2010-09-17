@@ -1,1 +1,6 @@
-TODO documentation and/or example code
+permissions
+===========
+
+
+permissions
+    TODO: need description

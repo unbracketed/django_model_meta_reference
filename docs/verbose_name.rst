@@ -1,1 +1,6 @@
-TODO documentation and/or example code
+verbose_name
+============
+
+
+verbose_name
+    TODO: need description

@@ -1,1 +1,6 @@
-TODO documentation and/or example code
+proxy_for_model
+===============
+
+
+proxy_for_model
+    TODO: need description
