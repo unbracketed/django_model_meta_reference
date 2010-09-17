@@ -1,6 +1,4 @@
 permissions
 ===========
 
-
-permissions
-    TODO: need description
+TODO: need description

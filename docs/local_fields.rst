@@ -1,6 +1,4 @@
 local_fields
 ============
 
-
-local_fields
-    TODO: need description
+TODO: need description

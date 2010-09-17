@@ -1,6 +1,4 @@
 ordering
 ========
 
-
-ordering
-    TODO: need description
+TODO: need description

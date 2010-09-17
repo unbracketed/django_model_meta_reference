@@ -1,6 +1,4 @@
 virtual_fields
 ==============
 
-
-virtual_fields
-    TODO: need description
+TODO: need description

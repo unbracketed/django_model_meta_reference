@@ -62,7 +62,7 @@ with open('index.rst', 'w') as f:
 				doc = re.sub(r'\s{2,}', ' ', getattr(Dummy._meta, attr).__doc__.lstrip())
 				rf.write('   %s\n' % doc)
 			else:
-				rf.write('\n%s\n    TODO: need description\n' % attr)
+				rf.write('TODO: need description\n')
 		
 		f.write("   %s\n" % attr)
 	
